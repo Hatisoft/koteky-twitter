@@ -1,0 +1,39 @@
+{
+  "name": "koteky-twitter",
+  "version": "0.1.0",
+  "description": "twitter plugin for the koteky",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hatisoft/koteky-twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "koteky",
+    "social-network"
+  ],
+  "author": "kanekotic",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Hatisoft/koteky-twitter/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Hatisoft/koteky-twitter/issues"
+  },
+  "devDependencies": {
+    "blanket": "^1.2.1",
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {
+    "electron-oauth-twitter": "0.0.6",
+    "twitter": "^1.2.5"
+  }
+}
