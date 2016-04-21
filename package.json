@@ -33,7 +33,5 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "electron-oauth-twitter": "0.0.6",
-    "twitter": "^1.2.5"
   }
 }
