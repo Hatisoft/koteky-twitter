@@ -33,6 +33,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
+    "koteky-lib": "^0.1.0",
     "oauth-electron-twitter": "^0.1.1",
     "twit": "^2.2.3"
   }

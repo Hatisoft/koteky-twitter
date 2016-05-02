@@ -14,7 +14,7 @@ plugin need to be installed by hand adding it into the plugin section of package
 ```
 {
   ...
-  "plugins": 
+  "plugins":
   {
    "koteky-twitter" : "git://github.com/Hatisoft/koteky-twitter.git"
   }
@@ -24,7 +24,7 @@ plugin need to be installed by hand adding it into the plugin section of package
 ##Roadmap
 
 - [x] Implement Oauth authentication
-- [ ] Implement retrive posts
+- [x] Implement retrive posts
 - [ ] Implement Post information
 - [ ] Others
 
