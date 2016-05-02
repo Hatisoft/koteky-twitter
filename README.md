@@ -25,7 +25,7 @@ plugin need to be installed by hand adding it into the plugin section of package
 
 - [x] Implement Oauth authentication
 - [x] Implement retrive posts
-- [ ] Implement Post information
+- [x] Implement Post information
 - [ ] Others
 
 ####Credits
