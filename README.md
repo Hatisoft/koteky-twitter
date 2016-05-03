@@ -1,12 +1,8 @@
 # ![drawing 3](https://cloud.githubusercontent.com/assets/3071208/14738961/0b8f74a8-0885-11e6-9ac7-9f140646dec5.png)
 
-
 This is a twitter plugin for koteky crossplatform social network manager application based on electron.
 
-
 ##Usage (Alpha)
-
-**This project is still on development and is not ready for public use**
 
 install koteky, instruction can be found on this link.
 
@@ -16,7 +12,7 @@ plugin need to be installed by hand adding it into the plugin section of package
   ...
   "plugins":
   {
-   "koteky-twitter" : "git://github.com/Hatisoft/koteky-twitter.git"
+   "koteky-twitter" : "^x.x.x"
   }
 }
 ```
@@ -24,6 +20,7 @@ plugin need to be installed by hand adding it into the plugin section of package
 ##Roadmap
 
 - [x] Implement Oauth authentication
+- [x] Implement subscribe stream
 - [x] Implement retrive posts
 - [x] Implement Post information
 - [ ] Others
