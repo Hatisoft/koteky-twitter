@@ -1,6 +1,6 @@
 {
   "name": "koteky-twitter",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "twitter plugin for the koteky",
   "main": "index.js",
   "scripts": {
