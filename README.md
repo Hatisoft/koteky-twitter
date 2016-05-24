@@ -4,9 +4,9 @@ This is a twitter plugin for koteky crossplatform social network manager applica
 
 ##Usage (Alpha)
 
-install koteky, instruction can be found on this link.
+1. install [koteky](https://github.com/Hatisoft/koteky).
 
-plugin need to be installed by hand adding it into the plugin section of package.json
+2. plugin can be install in app or by hand modifying the package.json
 ```
 {
   ...
@@ -16,14 +16,6 @@ plugin need to be installed by hand adding it into the plugin section of package
   }
 }
 ```
-
-##Roadmap
-
-- [x] Implement Oauth authentication
-- [x] Implement subscribe stream
-- [x] Implement retrive posts
-- [x] Implement Post information
-- [ ] Others
 
 ####Credits
 
