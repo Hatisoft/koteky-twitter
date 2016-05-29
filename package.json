@@ -1,6 +1,6 @@
 {
   "name": "koteky-twitter",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "twitter plugin for the koteky",
   "main": "index.js",
   "scripts": {
@@ -33,6 +33,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
+    "flowdock-text": "^1.2.0",
     "koteky-lib": "^0.2.3",
     "oauth-electron-twitter": "^0.1.1",
     "twit": "^2.2.3"
